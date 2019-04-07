@@ -1,4 +1,4 @@
-#Vulkan Physics
+# Vulkan Physics
 A basic example of using vulkan to run physics calculations on a GPU.
 
 Built and tested on Linux and Windows so far, should be portable enough to other systems.
